@@ -1,0 +1,63 @@
+University of People
+Master of Science Information Technology (MSIT)
+Classes start: November 16, 2023
+Program Learning Outcomes
+PLO 1: Students can apply the principles of information technology, computer science, business administration, and other disciplines to analyze complex computing problems.
+PLO 2: Students can design and evaluate solutions to complex computing problems using industry-recognized best practices and standards.
+PLO 3: Students will be able to analyze user needs in developing and implementing computing-based solutions.
+PLO4: Students will be able to assess the ethical considerations in the development, implementation, evaluation, and management of IT systems.
+PLO 5: Students can construct clear, well-organized arguments supported by credible research-based evidence.
+
+
+Foundation Courses : 3 courses | 9 Credits
+- MSIT 5210 Databases, 3 CREDITS | NONE
+  Developing and managing efficient and effective database applications requires understanding the fundamentals of database management systems, techniques for the design of databases, and database administration principles. This course will emphasize database concepts, developments, use, and management in three main areas: database concepts, practice, and emerging trends. Relational database systems are the main focus, but other types, including object-oriented databases, are studied. The practical design of databases and developing database applications using modern software tools will be emphasized.
+
+- MSIT 5212 Operating Systems, 3 CREDITS | NONE
+  This course covers the core concepts of modern operating systems. In this course, we’ll discuss the basic structure of the operating system, which is based on three key ideas: virtualization, concurrency, and persistence. Through these three key ideas, we’ll see how an operating system controls the execution of user programs, attached devices and acts as an interface between computer users and the hardware.
+
+- MSIT 5214 Algorithms, 3 CREDITS | NONE
+  This course is an introduction to the design of computer algorithms and the analysis of sophisticated algorithms. Students learn how to analyze the asymptotic performance of algorithms and gain familiarity with major algorithms and data structures. They also apply important algorithmic design paradigms and methods of analysis, in addition to synthesizing efficient algorithms in common software engineering design situations. Students will use Python or Java programming language to implement and analyze algorithms to evaluate efficiency.
+
+Program Electives : 3 courses | 9 Credits
+- MSIT 5910 Capstone Project*, 3 CREDITS | NONE
+  This course is completed as the final required course in the MSIT program. It offers students the opportunity to apply the knowledge and research skills gained in their coursework to an applied system design project which demonstrates attainment of all program outcomes. The Capstone Project also requires incorporation of business-oriented concepts learned from the program’s required Business Administration elective courses in the systems design process. As part of this course students will also present their project (live or via recorded video) to their Course Instructor.
+
+- MSIT 5260 Foundations of HCI, 3 CREDITS | NONE
+  Human-Computer Interaction (HCI) focuses on the theories and technologies that establish an understanding of the complexity and relationship between humans and computing systems. The course includes the human-computer interface in the design and development of technologies, using cognitive and social characteristics of people, as well limitations that affects design and implementation decision making.
+
+- MSIT 5270 Foundations of Cybersecurity, 3 CREDITS | NONE
+  The fundamentals of cyber security are introduced in this course. Students will learn to identify attack phases and understand threats and motivations. The course will also introduce students to the tools, resources, and techniques used in cyber-attacks and the techniques for mitigating threats.
+
+Core Electives : (Choose 3 out of 6) | 9 Credits
+- MSIT 5226 Foundation of Machine Learning, 3 CREDITS | NONE
+  This course covers the theory and practical algorithms for machine learning from various perspectives and will introduce the fundamental concepts that enable computers to learn from experience. An emphasis will be placed on the practical application to real problems. Topics include classification, clustering, dimension reduction, support vector machines, learning theory, online algorithms, and classical methods such as linear regression and reinforcement learning. This course will also offer a mathematical and practical perspective on artificial neural networks and will investigate the optimization and regularization techniques.
+
+- MSIT 5228 Foundations of Networking, 3 CREDITS | NONE
+  In this Foundations of Networking course, you will learn the basics of electronic communications and networking. Throughout the course, we will mainly be focusing on:
+  Wire and Wireless Communications
+  OSI model
+  TCP/IP
+  Switching
+  Routing
+  Wireless Access Points
+  Application and Network Security
+  By the end of the course, you will learn how data are transferred electronically from one device to another or other networks, like the Internet.
+
+- MSIT 5230 Foundations of WWW Technologies, 3 CREDITS | NONE
+  We describe the difficulties of peer-to-peer information exchange and the basic W3 model of hypertext and search indexes. We list the protocols used by W3 and describe a new Simple Search and Retrieval Protocol (HTTP), and the SGML-style document encoding used. Also, explaining the concept of front end, back end, including the basis medias formats for audio and video.
+
+Required Business Electives : (Choose 3 out of 6) | 9 Credits
+- BUIT 5611 Managing Projects and Programs, 3 CREDITS | NONE
+  Project management enables organizations to optimize scarce resources to accomplish strategic goals within a fixed timeframe. This course covers the tools and methods available to manage large and small projects and programs from inception to completion. Students are introduced to the principles and practices for contracting and procurement and the role of the project manager in these processes. They utilize this knowledge to develop a project plan that includes needs assessment, articulating rationales, specifying steps and processes, identifying resource needs, assigning roles and responsibilities, predicting costs and timelines, developing controls and pursuing risk mitigation, and articulating methods to monitor and evaluate the effectiveness and fit to identified need.
+
+- BUIT 5111 Financial Management, 3 CREDITS | NONE
+  This course will provide students with an understanding of the components of an organization’s internal financial conditions and how decision-makers manage these resources in the context of external markets and institutions. The real-world challenges of corporate finance will be covered, including evaluating financial tools; employing basic financial analysis tools; and acquiring an understanding of core financial decisions. Specific skills acquired will be financial trend analysis; calculating the present value of cash streams leading to the ability construct capital budgets; calculating bond interest tax shields; constructing corporate valuation models; and assessing the impact of various sources of capital infusions on the cost of capital structure of a firm.
+
+- BUIT 5113 Organizational Theory and Behavior, 3 CREDITS | NONE
+  This course is designed to expose the student to the fundamental principles with which to understand human behavior inside public organizations. The course examines various theories developed to explain and predict employee behavior in an organizational context. This course investigates individual and interpersonal behavior in organizations, including personality, decision-making, personal perceptions, teamwork, conflict, leadership, power, ethics and influence. In addition, this course seeks to analyze organizational-level factors affecting behavior, including change management, internal reward systems, culture, and organizational communication.
+
+
+
+
+
